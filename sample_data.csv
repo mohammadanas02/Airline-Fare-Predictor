@@ -1,0 +1,501 @@
+Date_of_journey,Journey_day,Airline,Flight_code,Class,Source,Departure,Total_stops,Arrival,Destination,Duration_in_hours,Days_left,Fare
+2023-02-09,Thursday,Air India,AI-669,Economy,Mumbai,Before 6 AM,2+-stop,After 6 PM,Hyderabad,37.0833,25,11757
+2023-02-04,Saturday,Vistara,UK-872,Economy,Hyderabad,6 AM - 12 PM,1-stop,6 AM - 12 PM,Chennai,26.25,20,7124
+2023-01-31,Tuesday,Indigo,6E-512,Economy,Kolkata,12 PM - 6 PM,1-stop,After 6 PM,Bangalore,7.4167,16,6507
+2023-02-09,Thursday,Air India,AI-526,Economy,Kolkata,After 6 PM,1-stop,12 PM - 6 PM,Delhi,17.5,25,11406
+2023-01-20,Friday,Vistara,UK-849,Business,Mumbai,12 PM - 6 PM,1-stop,After 6 PM,Delhi,6.4167,5,69661
+2023-02-27,Monday,Air India,AI-575,Business,Chennai,After 6 PM,1-stop,6 AM - 12 PM,Delhi,15.0,43,45345
+2023-02-22,Wednesday,AkasaAir,QP-1341,Economy,Mumbai,After 6 PM,non-stop,After 6 PM,Bangalore,1.6667,38,3002
+2023-02-10,Friday,Vistara,UK-637,Premium Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,5.25,26,12486
+2023-01-25,Wednesday,Vistara,UK-872,Economy,Hyderabad,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,7.4167,10,13717
+2023-01-19,Thursday,Vistara,UK-838,Economy,Chennai,After 6 PM,1-stop,6 AM - 12 PM,Mumbai,14.1667,4,16470
+2023-01-20,Friday,Vistara,UK-822,Economy,Chennai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,7.25,5,13309
+2023-01-25,Wednesday,Air India,AI-538,Economy,Chennai,After 6 PM,1-stop,6 AM - 12 PM,Mumbai,14.8333,10,16333
+2023-01-27,Friday,Vistara,UK-824,Business,Chennai,After 6 PM,1-stop,12 PM - 6 PM,Hyderabad,15.75,12,41224
+2023-02-01,Wednesday,Vistara,UK-824,Premium Economy,Chennai,After 6 PM,1-stop,12 PM - 6 PM,Ahmedabad,20.1667,17,10166
+2023-02-10,Friday,Air India,AI-559,Economy,Hyderabad,6 AM - 12 PM,1-stop,6 AM - 12 PM,Ahmedabad,24.5,26,7085
+2023-02-22,Wednesday,Air India,AI-604,Economy,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Kolkata,13.75,38,9123
+2023-03-02,Thursday,Vistara,UK-926,Economy,Ahmedabad,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,9.75,46,8107
+2023-02-21,Tuesday,Vistara,UK-850,Economy,Bangalore,After 6 PM,1-stop,After 6 PM,Chennai,23.9167,37,5033
+2023-02-01,Wednesday,AirAsia,I5-558,Economy,Bangalore,After 6 PM,non-stop,Before 6 AM,Kolkata,2.5,17,7261
+2023-02-10,Friday,Vistara,UK-993,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Bangalore,8.0833,26,9231
+2023-02-11,Saturday,Air India,AI-553,Business,Chennai,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,15.75,27,49713
+2023-02-02,Thursday,Vistara,UK-878,Business,Hyderabad,12 PM - 6 PM,1-stop,6 AM - 12 PM,Delhi,19.0,18,39936
+2023-02-12,Sunday,Indigo,6E-319,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,6.25,28,11729
+2023-01-30,Monday,Air India,AI-482,Business,Ahmedabad,12 PM - 6 PM,non-stop,12 PM - 6 PM,Delhi,1.5833,15,19747
+2023-02-17,Friday,Vistara,UK-902,Premium Economy,Mumbai,12 PM - 6 PM,1-stop,After 6 PM,Chennai,6.9167,33,16394
+2023-02-20,Monday,Vistara,UK-927,Premium Economy,Delhi,6 AM - 12 PM,1-stop,6 AM - 12 PM,Chennai,23.4167,36,12004
+2023-02-02,Thursday,Air India,AI-840,Economy,Hyderabad,After 6 PM,2+-stop,12 PM - 6 PM,Mumbai,19.8333,18,10742
+2023-02-09,Thursday,Indigo,6E-5212,Economy,Mumbai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Kolkata,6.75,25,9110
+2023-01-23,Monday,Indigo,6E-921,Economy,Ahmedabad,6 AM - 12 PM,1-stop,12 PM - 6 PM,Chennai,5.8333,8,17113
+2023-02-09,Thursday,Vistara,UK-946,Economy,Ahmedabad,6 AM - 12 PM,1-stop,After 6 PM,Chennai,11.1667,25,16423
+2023-01-23,Monday,Air India,AI-641,Economy,Mumbai,After 6 PM,1-stop,After 6 PM,Delhi,23.1667,8,8505
+2023-02-23,Thursday,Vistara,UK-976,Economy,Ahmedabad,12 PM - 6 PM,1-stop,After 6 PM,Hyderabad,7.1667,39,9367
+2023-02-07,Tuesday,AirAsia,I5-1453,Economy,Bangalore,12 PM - 6 PM,1-stop,Before 6 AM,Delhi,12.75,23,6400
+2023-02-20,Monday,Air India,AI-616,Economy,Hyderabad,6 AM - 12 PM,1-stop,6 AM - 12 PM,Bangalore,24.25,36,5696
+2023-02-13,Monday,Air India,AI-864,Economy,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Kolkata,12.0,29,13083
+2023-02-08,Wednesday,AirAsia,I5-745,Economy,Delhi,12 PM - 6 PM,2+-stop,After 6 PM,Hyderabad,7.8333,24,8247
+2023-02-12,Sunday,Indigo,6E-484,Economy,Bangalore,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,5.3333,28,6594
+2023-02-17,Friday,Indigo,6E-6149,Economy,Chennai,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,6.9167,33,4947
+2023-02-12,Sunday,Air India,AI-618,Business,Hyderabad,12 PM - 6 PM,1-stop,6 AM - 12 PM,Chennai,21.8333,28,41078
+2023-02-17,Friday,Air India,AI-505,Economy,Bangalore,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,6.3333,33,11065
+2023-02-26,Sunday,Indigo,6E-6012,Economy,Bangalore,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,5.5,42,4975
+2023-01-30,Monday,Vistara,UK-876,Premium Economy,Hyderabad,After 6 PM,1-stop,6 AM - 12 PM,Ahmedabad,10.25,15,9671
+2023-02-04,Saturday,Air India,AI-672,Economy,Chennai,12 PM - 6 PM,non-stop,12 PM - 6 PM,Mumbai,2.1667,20,4909
+2023-02-18,Saturday,Indigo,6E-6288,Economy,Chennai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Kolkata,6.8333,34,6085
+2023-01-22,Sunday,Indigo,6E-6893,Economy,Kolkata,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,7.0,7,14223
+2023-02-03,Friday,Vistara,UK-838,Premium Economy,Chennai,After 6 PM,1-stop,After 6 PM,Ahmedabad,25.8333,19,20618
+2023-02-12,Sunday,Vistara,UK-946,Business,Ahmedabad,6 AM - 12 PM,1-stop,6 AM - 12 PM,Hyderabad,24.75,28,43412
+2023-01-27,Friday,Vistara,UK-864,Premium Economy,Bangalore,After 6 PM,1-stop,12 PM - 6 PM,Hyderabad,17.25,12,10723
+2023-02-05,Sunday,Vistara,UK-988,Economy,Mumbai,After 6 PM,non-stop,After 6 PM,Delhi,2.0833,21,5943
+2023-02-27,Monday,Vistara,UK-824,Business,Chennai,After 6 PM,non-stop,After 6 PM,Mumbai,2.0,43,23998
+2023-02-17,Friday,Vistara,UK-946,Premium Economy,Ahmedabad,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,11.75,33,18259
+2023-01-27,Friday,Indigo,6E-6431,Economy,Mumbai,12 PM - 6 PM,1-stop,12 PM - 6 PM,Hyderabad,4.75,12,8612
+2023-01-30,Monday,Vistara,UK-977,Economy,Delhi,After 6 PM,1-stop,After 6 PM,Chennai,24.8333,15,9966
+2023-02-08,Wednesday,Indigo,6E-854,Economy,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Ahmedabad,6.3333,24,9165
+2023-02-15,Wednesday,Vistara,UK-860,Economy,Hyderabad,6 AM - 12 PM,1-stop,12 PM - 6 PM,Bangalore,10.0,31,11482
+2023-02-17,Friday,Vistara,UK-870,Premium Economy,Hyderabad,After 6 PM,1-stop,12 PM - 6 PM,Mumbai,18.5,33,14579
+2023-01-21,Saturday,Vistara,UK-995,Business,Delhi,6 AM - 12 PM,1-stop,After 6 PM,Chennai,9.5,6,71353
+2023-02-23,Thursday,Vistara,UK-822,Business,Chennai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,7.25,39,53712
+2023-01-16,Monday,Indigo,6E-848,Economy,Chennai,12 PM - 6 PM,1-stop,Before 6 AM,Delhi,6.1667,1,18589
+2023-03-03,Friday,Vistara,UK-818,Economy,Bangalore,After 6 PM,1-stop,12 PM - 6 PM,Hyderabad,21.3333,47,12168
+2023-03-02,Thursday,Vistara,UK-832,Business,Chennai,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,14.1667,46,49713
+2023-01-21,Saturday,Air India,AI-560,Business,Delhi,6 AM - 12 PM,non-stop,6 AM - 12 PM,Hyderabad,2.1667,6,23944
+2023-01-18,Wednesday,Air India,AI-406,Business,Delhi,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,5.5833,3,44025
+2023-02-09,Thursday,Air India,AI-511,Economy,Bangalore,12 PM - 6 PM,1-stop,After 6 PM,Chennai,8.5833,25,10878
+2023-02-05,Sunday,Indigo,6E-238,Economy,Chennai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Hyderabad,5.8333,21,7062
+2023-02-28,Tuesday,Vistara,UK-936,Economy,Ahmedabad,6 AM - 12 PM,1-stop,After 6 PM,Kolkata,11.1667,44,14276
+2023-01-18,Wednesday,Vistara,UK-802,Business,Bangalore,After 6 PM,1-stop,12 PM - 6 PM,Mumbai,17.8333,3,81692
+2023-02-16,Thursday,Air India,AI-604,Economy,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Delhi,12.0833,32,8167
+2023-02-27,Monday,Vistara,UK-771,Economy,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Delhi,14.0833,43,14658
+2023-02-16,Thursday,Vistara,UK-826,Business,Chennai,12 PM - 6 PM,1-stop,6 AM - 12 PM,Bangalore,19.25,32,44304
+2023-03-02,Thursday,Air India,AI-553,Business,Chennai,6 AM - 12 PM,1-stop,Before 6 AM,Mumbai,16.9167,46,49713
+2023-03-06,Monday,Air India,AI-687,Economy,Mumbai,12 PM - 6 PM,non-stop,After 6 PM,Delhi,2.0833,50,5943
+2023-01-16,Monday,Air India,AI-687,Business,Mumbai,12 PM - 6 PM,1-stop,6 AM - 12 PM,Bangalore,16.3333,1,59189
+2023-02-23,Thursday,Vistara,UK-957,Economy,Delhi,After 6 PM,1-stop,12 PM - 6 PM,Hyderabad,15.5833,39,9840
+2023-02-20,Monday,Vistara,UK-977,Premium Economy,Delhi,After 6 PM,1-stop,After 6 PM,Ahmedabad,4.9167,36,10560
+2023-01-18,Wednesday,Vistara,UK-810,Premium Economy,Bangalore,6 AM - 12 PM,1-stop,6 AM - 12 PM,Kolkata,25.3333,3,22285
+2023-03-02,Thursday,Air India,AI-505,Economy,Bangalore,6 AM - 12 PM,1-stop,6 AM - 12 PM,Ahmedabad,20.9167,46,7456
+2023-01-30,Monday,Air India,AI-605,Business,Delhi,After 6 PM,non-stop,After 6 PM,Mumbai,2.25,15,22152
+2023-02-14,Tuesday,Indigo,6E-6605,Economy,Delhi,After 6 PM,1-stop,Before 6 AM,Chennai,5.3333,30,8800
+2023-02-25,Saturday,Vistara,UK-946,Premium Economy,Ahmedabad,6 AM - 12 PM,1-stop,After 6 PM,Chennai,11.6667,41,14841
+2023-02-05,Sunday,Air India,AI-774,Business,Mumbai,After 6 PM,1-stop,6 AM - 12 PM,Delhi,12.1667,21,59021
+2023-01-27,Friday,Air India,AI-676,Economy,Kolkata,6 AM - 12 PM,1-stop,6 AM - 12 PM,Delhi,25.8333,12,14172
+2023-03-03,Friday,GO FIRST,G8-714,Economy,Ahmedabad,After 6 PM,1-stop,6 AM - 12 PM,Kolkata,8.75,47,11601
+2023-03-05,Sunday,Vistara,UK-720,Business,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Bangalore,9.8333,49,78513
+2023-02-17,Friday,Vistara,UK-706,Economy,Kolkata,6 AM - 12 PM,2+-stop,After 6 PM,Mumbai,12.6667,33,13700
+2023-01-20,Friday,Vistara,UK-854,Economy,Bangalore,After 6 PM,1-stop,After 6 PM,Chennai,4.5,5,25671
+2023-01-16,Monday,Indigo,6E-773,Economy,Hyderabad,12 PM - 6 PM,non-stop,12 PM - 6 PM,Mumbai,1.5833,1,5527
+2023-02-06,Monday,Vistara,UK-776,Economy,Kolkata,12 PM - 6 PM,1-stop,After 6 PM,Chennai,5.5,22,9569
+2023-02-05,Sunday,Vistara,UK-985,Business,Delhi,After 6 PM,1-stop,6 AM - 12 PM,Ahmedabad,12.0833,21,33881
+2023-03-03,Friday,Vistara,UK-870,Business,Hyderabad,After 6 PM,1-stop,After 6 PM,Mumbai,22.5833,47,46230
+2023-01-27,Friday,Air India,AI-501,Economy,Bangalore,12 PM - 6 PM,1-stop,6 AM - 12 PM,Mumbai,22.6667,12,18397
+2023-01-27,Friday,Indigo,6E-2231,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Kolkata,6.0,12,18607
+2023-01-16,Monday,GO FIRST,G8-575,Economy,Mumbai,Before 6 AM,1-stop,After 6 PM,Delhi,15.3333,1,15742
+2023-02-04,Saturday,Indigo,6E-6214,Economy,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Hyderabad,5.5833,20,8759
+2023-02-28,Tuesday,Vistara,UK-720,Business,Kolkata,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,13.25,44,68433
+2023-03-05,Sunday,Vistara,UK-943,Economy,Delhi,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,11.75,49,9231
+2023-02-03,Friday,Air India,AI-511,Business,Bangalore,12 PM - 6 PM,1-stop,6 AM - 12 PM,Kolkata,18.0833,19,60703
+2023-01-20,Friday,Vistara,UK-778,Premium Economy,Kolkata,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,7.5833,5,40534
+2023-03-05,Sunday,Air India,AI-482,Economy,Ahmedabad,12 PM - 6 PM,1-stop,6 AM - 12 PM,Mumbai,17.9167,49,9945
+2023-02-22,Wednesday,Vistara,UK-808,Economy,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,11.0833,38,11065
+2023-03-04,Saturday,Air India,AI-543,Economy,Hyderabad,6 AM - 12 PM,2+-stop,12 PM - 6 PM,Mumbai,30.3333,48,13312
+2023-01-29,Sunday,Vistara,UK-951,Premium Economy,Delhi,12 PM - 6 PM,1-stop,6 AM - 12 PM,Ahmedabad,17.5,14,30630
+2023-01-19,Thursday,Vistara,UK-879,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Bangalore,3.9167,4,16665
+2023-01-23,Monday,Vistara,UK-778,Economy,Kolkata,12 PM - 6 PM,2+-stop,After 6 PM,Mumbai,7.5833,8,15642
+2023-02-08,Wednesday,Vistara,UK-772,Economy,Kolkata,6 AM - 12 PM,1-stop,After 6 PM,Ahmedabad,12.5833,24,18577
+2023-02-21,Tuesday,Air India,AI-808,Business,Bangalore,After 6 PM,1-stop,6 AM - 12 PM,Mumbai,12.25,37,54879
+2023-02-26,Sunday,Indigo,6E-6208,Economy,Ahmedabad,12 PM - 6 PM,1-stop,After 6 PM,Kolkata,5.6667,42,9240
+2023-02-17,Friday,Air India,AI-543,Business,Hyderabad,6 AM - 12 PM,1-stop,After 6 PM,Kolkata,8.9167,33,51942
+2023-02-06,Monday,Air India,AI-815,Economy,Delhi,12 PM - 6 PM,1-stop,6 AM - 12 PM,Hyderabad,17.0833,22,6942
+2023-02-16,Thursday,Air India,AI-864,Business,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Chennai,12.25,32,49613
+2023-01-31,Tuesday,Vistara,UK-954,Economy,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Kolkata,12.0833,16,15446
+2023-02-17,Friday,Indigo,6E-6925,Economy,Chennai,12 PM - 6 PM,1-stop,12 PM - 6 PM,Kolkata,4.4167,33,6085
+2023-02-18,Saturday,Indigo,6E-7436,Economy,Bangalore,After 6 PM,1-stop,Before 6 AM,Mumbai,4.5833,34,7369
+2023-02-14,Tuesday,Indigo,6E-7403,Economy,Delhi,6 AM - 12 PM,1-stop,12 PM - 6 PM,Kolkata,4.9167,30,10259
+2023-03-01,Wednesday,Indigo,6E-2137,Economy,Mumbai,6 AM - 12 PM,non-stop,6 AM - 12 PM,Delhi,2.25,45,6153
+2023-02-15,Wednesday,Air India,AI-768,Economy,Kolkata,12 PM - 6 PM,1-stop,After 6 PM,Chennai,7.1667,31,14340
+2023-01-26,Thursday,Vistara,UK-966,Premium Economy,Ahmedabad,After 6 PM,1-stop,6 AM - 12 PM,Bangalore,15.3333,11,24979
+2023-02-23,Thursday,Vistara,UK-995,Business,Delhi,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,8.9167,39,42457
+2023-03-06,Monday,Indigo,6E-2056,Economy,Mumbai,Before 6 AM,non-stop,6 AM - 12 PM,Delhi,2.25,50,6363
+2023-01-17,Tuesday,Air India,AI-429,Business,Delhi,6 AM - 12 PM,1-stop,6 AM - 12 PM,Kolkata,24.9167,2,51474
+2023-02-21,Tuesday,GO FIRST,G8-537,Economy,Kolkata,12 PM - 6 PM,1-stop,Before 6 AM,Delhi,9.3333,37,7110
+2023-02-06,Monday,Indigo,6E-6007,Economy,Hyderabad,After 6 PM,non-stop,Before 6 AM,Chennai,1.25,22,4687
+2023-02-01,Wednesday,Vistara,UK-936,Economy,Ahmedabad,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,6.4167,17,11047
+2023-02-12,Sunday,Vistara,UK-936,Premium Economy,Ahmedabad,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,5.6667,28,12019
+2023-02-23,Thursday,GO FIRST,G8-575,Economy,Mumbai,Before 6 AM,1-stop,After 6 PM,Delhi,15.3333,39,14593
+2023-02-07,Tuesday,Air India,AI-505,Economy,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Hyderabad,9.0,23,9874
+2023-01-21,Saturday,Vistara,UK-928,Business,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,12.3333,6,69504
+2023-02-26,Sunday,Air India,AI-502,Economy,Delhi,12 PM - 6 PM,1-stop,6 AM - 12 PM,Hyderabad,19.8333,42,8045
+2023-03-05,Sunday,Vistara,UK-966,Premium Economy,Ahmedabad,After 6 PM,1-stop,After 6 PM,Hyderabad,26.25,49,12601
+2023-02-12,Sunday,Vistara,UK-816,Business,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,11.4167,28,54879
+2023-03-02,Thursday,Air India,AI-559,Business,Hyderabad,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,13.8333,46,56825
+2023-02-03,Friday,Indigo,6E-447,Economy,Chennai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,6.5833,19,13519
+2023-02-17,Friday,Vistara,UK-834,Economy,Chennai,12 PM - 6 PM,2+-stop,6 AM - 12 PM,Mumbai,14.5833,33,14286
+2023-02-28,Tuesday,Indigo,6E-489,Economy,Chennai,After 6 PM,1-stop,Before 6 AM,Delhi,4.9167,44,8627
+2023-03-05,Sunday,Indigo,6E-6505,Economy,Hyderabad,After 6 PM,1-stop,Before 6 AM,Ahmedabad,5.0,49,7471
+2023-02-18,Saturday,Indigo,6E-6925,Economy,Chennai,12 PM - 6 PM,non-stop,12 PM - 6 PM,Hyderabad,1.25,34,4573
+2023-01-24,Tuesday,Vistara,UK-956,Business,Ahmedabad,12 PM - 6 PM,non-stop,After 6 PM,Mumbai,1.5,9,25363
+2023-01-22,Sunday,Air India,AI-603,Economy,Mumbai,6 AM - 12 PM,2+-stop,6 AM - 12 PM,Ahmedabad,24.1667,7,14273
+2023-02-27,Monday,Vistara,UK-851,Premium Economy,Mumbai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,5.6667,43,10839
+2023-01-26,Thursday,Vistara,UK-996,Premium Economy,Mumbai,After 6 PM,1-stop,6 AM - 12 PM,Kolkata,13.8333,11,20482
+2023-02-27,Monday,Air India,AI-764,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Hyderabad,28.5,43,13095
+2023-01-31,Tuesday,Indigo,6E-7568,Economy,Ahmedabad,12 PM - 6 PM,1-stop,After 6 PM,Delhi,7.6667,16,6990
+2023-02-26,Sunday,Air India,AI-542,Economy,Delhi,6 AM - 12 PM,non-stop,12 PM - 6 PM,Hyderabad,2.25,42,4764
+2023-02-28,Tuesday,Vistara,UK-823,Economy,Mumbai,12 PM - 6 PM,non-stop,After 6 PM,Chennai,2.0,44,2814
+2023-02-25,Saturday,AirAsia,I5-1543,Economy,Hyderabad,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,6.6667,41,5041
+2023-01-31,Tuesday,GO FIRST,G8-399,Economy,Bangalore,After 6 PM,1-stop,6 AM - 12 PM,Ahmedabad,12.5,16,5423
+2023-02-12,Sunday,AkasaAir,QP-1107,Economy,Mumbai,12 PM - 6 PM,non-stop,12 PM - 6 PM,Ahmedabad,1.25,28,2204
+2023-01-27,Friday,Indigo,6E-6034,Economy,Delhi,Before 6 AM,1-stop,6 AM - 12 PM,Mumbai,5.0833,12,7742
+2023-01-31,Tuesday,Air India,AI-888,Economy,Mumbai,After 6 PM,2+-stop,12 PM - 6 PM,Kolkata,22.0,16,10868
+2023-01-19,Thursday,Air India,AI-640,Business,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Chennai,13.5833,4,44060
+2023-01-30,Monday,AirAsia,I5-1981,Economy,Bangalore,Before 6 AM,1-stop,6 AM - 12 PM,Delhi,6.6667,15,7883
+2023-02-13,Monday,Vistara,UK-808,Economy,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Ahmedabad,11.75,29,7700
+2023-01-22,Sunday,Indigo,6E-6425,Economy,Ahmedabad,6 AM - 12 PM,1-stop,12 PM - 6 PM,Kolkata,6.75,7,14472
+2023-02-28,Tuesday,Air India,AI-515,Business,Hyderabad,6 AM - 12 PM,1-stop,6 AM - 12 PM,Mumbai,22.5833,44,32655
+2023-02-01,Wednesday,Vistara,UK-876,Business,Hyderabad,After 6 PM,1-stop,After 6 PM,Bangalore,21.6667,17,62963
+2023-02-18,Saturday,Vistara,UK-898,Economy,Hyderabad,6 AM - 12 PM,1-stop,6 AM - 12 PM,Mumbai,26.5833,34,6169
+2023-02-07,Tuesday,Vistara,UK-879,Business,Delhi,12 PM - 6 PM,non-stop,After 6 PM,Hyderabad,2.25,23,24056
+2023-02-22,Wednesday,Air India,AI-773,Economy,Kolkata,12 PM - 6 PM,1-stop,12 PM - 6 PM,Delhi,22.0,38,12807
+2023-01-21,Saturday,Air India,AI-785,Business,Kolkata,12 PM - 6 PM,1-stop,12 PM - 6 PM,Delhi,19.8333,6,48097
+2023-02-07,Tuesday,Vistara,UK-957,Business,Delhi,After 6 PM,1-stop,6 AM - 12 PM,Chennai,12.25,23,53624
+2023-01-21,Saturday,Vistara,UK-955,Business,Delhi,12 PM - 6 PM,1-stop,6 AM - 12 PM,Ahmedabad,14.0833,6,50284
+2023-03-03,Friday,Vistara,UK-852,Premium Economy,Bangalore,6 AM - 12 PM,1-stop,6 AM - 12 PM,Delhi,22.25,47,11020
+2023-01-29,Sunday,Air India,AI-785,Business,Kolkata,12 PM - 6 PM,1-stop,12 PM - 6 PM,Delhi,19.8333,14,48097
+2023-02-15,Wednesday,Vistara,UK-828,Economy,Chennai,6 AM - 12 PM,1-stop,After 6 PM,Delhi,14.9167,31,9804
+2023-02-15,Wednesday,Air India,AI-806,Business,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Chennai,15.5833,31,49613
+2023-02-10,Friday,AirAsia,I5-768,Economy,Delhi,12 PM - 6 PM,1-stop,Before 6 AM,Bangalore,9.5833,26,5901
+2023-02-14,Tuesday,Vistara,UK-828,Economy,Chennai,6 AM - 12 PM,1-stop,Before 6 AM,Hyderabad,17.0833,30,6921
+2023-03-04,Saturday,Air India,AI-888,Business,Mumbai,After 6 PM,1-stop,After 6 PM,Chennai,24.25,48,49613
+2023-02-13,Monday,Indigo,6E-902,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Bangalore,5.8333,29,12202
+2023-01-27,Friday,Vistara,UK-988,Premium Economy,Mumbai,After 6 PM,1-stop,After 6 PM,Kolkata,25.4167,12,17458
+2023-02-14,Tuesday,Vistara,UK-738,Premium Economy,Kolkata,After 6 PM,1-stop,12 PM - 6 PM,Chennai,21.5833,30,18078
+2023-01-19,Thursday,Air India,AI-571,Economy,Chennai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,7.3333,4,10348
+2023-01-27,Friday,Air India,AI-840,Economy,Hyderabad,After 6 PM,1-stop,12 PM - 6 PM,Bangalore,19.9167,12,11971
+2023-02-24,Friday,Vistara,UK-832,Premium Economy,Chennai,6 AM - 12 PM,1-stop,After 6 PM,Kolkata,12.5,40,18174
+2023-02-14,Tuesday,Vistara,UK-720,Economy,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,9.3333,30,13700
+2023-02-04,Saturday,GO FIRST,G8-459,Economy,Ahmedabad,6 AM - 12 PM,non-stop,6 AM - 12 PM,Mumbai,1.3333,20,3096
+2023-01-28,Saturday,Vistara,UK-890,Premium Economy,Hyderabad,12 PM - 6 PM,non-stop,After 6 PM,Delhi,2.25,13,10099
+2023-02-28,Tuesday,Vistara,UK-657,Premium Economy,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Delhi,8.1667,44,15209
+2023-02-02,Thursday,Vistara,UK-810,Business,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Kolkata,11.0833,18,70783
+2023-02-03,Friday,Vistara,UK-926,Premium Economy,Ahmedabad,6 AM - 12 PM,1-stop,6 AM - 12 PM,Kolkata,25.5833,19,16496
+2023-01-30,Monday,Vistara,UK-830,Business,Hyderabad,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,13.5,15,65606
+2023-02-05,Sunday,Vistara,UK-996,Business,Mumbai,After 6 PM,1-stop,12 PM - 6 PM,Hyderabad,18.0833,21,60220
+2023-03-06,Monday,Vistara,UK-928,Business,Mumbai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Chennai,9.8333,50,57565
+2023-02-06,Monday,Vistara,UK-955,Business,Delhi,12 PM - 6 PM,1-stop,6 AM - 12 PM,Bangalore,14.0,22,50409
+2023-02-20,Monday,Vistara,UK-828,Economy,Chennai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,9.75,36,12381
+2023-02-23,Thursday,Indigo,6E-2326,Economy,Mumbai,12 PM - 6 PM,non-stop,12 PM - 6 PM,Delhi,1.8333,39,6153
+2023-01-26,Thursday,Air India,AI-698,Economy,Hyderabad,After 6 PM,1-stop,After 6 PM,Delhi,21.9167,11,12458
+2023-01-25,Wednesday,Indigo,6E-484,Economy,Bangalore,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,6.8333,10,13295
+2023-02-21,Tuesday,Air India,AI-768,Economy,Kolkata,12 PM - 6 PM,1-stop,After 6 PM,Chennai,8.1667,37,13710
+2023-02-14,Tuesday,Vistara,UK-996,Business,Mumbai,After 6 PM,1-stop,6 AM - 12 PM,Bangalore,13.8333,30,54608
+2023-02-28,Tuesday,Vistara,UK-824,Premium Economy,Chennai,After 6 PM,1-stop,After 6 PM,Bangalore,26.3333,44,7765
+2023-02-25,Saturday,Vistara,UK-858,Business,Bangalore,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,8.1667,41,69641
+2023-02-11,Saturday,Vistara,UK-720,Premium Economy,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Hyderabad,5.4167,27,16398
+2023-02-24,Friday,Air India,AI-806,Economy,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,12.25,40,10794
+2023-03-06,Monday,Vistara,UK-875,Economy,Mumbai,After 6 PM,1-stop,6 AM - 12 PM,Bangalore,14.5,50,6605
+2023-02-16,Thursday,Vistara,UK-802,Business,Bangalore,After 6 PM,1-stop,12 PM - 6 PM,Hyderabad,22.25,32,73292
+2023-02-03,Friday,Vistara,UK-836,Economy,Chennai,6 AM - 12 PM,1-stop,After 6 PM,Kolkata,11.0,19,15598
+2023-01-18,Wednesday,Air India,AI-807,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,6.4167,3,10187
+2023-01-18,Wednesday,Air India,AI-814,Business,Delhi,After 6 PM,1-stop,After 6 PM,Kolkata,25.3333,3,53209
+2023-02-28,Tuesday,Air India,AI-540,Economy,Delhi,After 6 PM,1-stop,6 AM - 12 PM,Mumbai,13.3333,44,8192
+2023-02-14,Tuesday,Vistara,UK-816,Business,Bangalore,6 AM - 12 PM,1-stop,6 AM - 12 PM,Hyderabad,21.9167,30,56783
+2023-02-16,Thursday,Vistara,UK-818,Premium Economy,Bangalore,After 6 PM,non-stop,After 6 PM,Delhi,2.6667,32,7559
+2023-03-02,Thursday,Vistara,UK-951,Business,Delhi,12 PM - 6 PM,non-stop,12 PM - 6 PM,Mumbai,2.1667,46,22152
+2023-01-16,Monday,Vistara,UK-986,Economy,Mumbai,After 6 PM,1-stop,12 PM - 6 PM,Chennai,17.5,1,26943
+2023-01-18,Wednesday,Vistara,UK-706,Premium Economy,Kolkata,6 AM - 12 PM,2+-stop,After 6 PM,Mumbai,8.5,3,35021
+2023-02-20,Monday,Vistara,UK-778,Premium Economy,Kolkata,12 PM - 6 PM,2+-stop,After 6 PM,Mumbai,8.3333,36,15838
+2023-01-20,Friday,Vistara,UK-864,Business,Bangalore,After 6 PM,1-stop,After 6 PM,Kolkata,24.8333,5,83613
+2023-01-18,Wednesday,Vistara,UK-706,Business,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,8.25,3,70009
+2023-01-16,Monday,Vistara,UK-977,Premium Economy,Delhi,After 6 PM,1-stop,12 PM - 6 PM,Ahmedabad,21.6667,1,36252
+2023-03-03,Friday,Air India,AI-442,Economy,Mumbai,12 PM - 6 PM,1-stop,After 6 PM,Hyderabad,8.25,47,11508
+2023-01-28,Saturday,Air India,AI-538,Business,Chennai,After 6 PM,1-stop,12 PM - 6 PM,Mumbai,19.8333,13,82630
+2023-01-16,Monday,Indigo,6E-6269,Economy,Bangalore,6 AM - 12 PM,1-stop,12 PM - 6 PM,Ahmedabad,7.5,1,7579
+2023-02-15,Wednesday,Vistara,UK-828,Business,Chennai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,8.5833,31,64889
+2023-02-27,Monday,Vistara,UK-872,Business,Hyderabad,6 AM - 12 PM,1-stop,6 AM - 12 PM,Bangalore,4.1667,43,38334
+2023-02-02,Thursday,Vistara,UK-637,Business,Delhi,12 PM - 6 PM,2+-stop,After 6 PM,Ahmedabad,7.1667,18,48307
+2023-03-04,Saturday,Vistara,UK-706,Premium Economy,Kolkata,6 AM - 12 PM,2+-stop,After 6 PM,Mumbai,10.4167,48,16809
+2023-01-30,Monday,Vistara,UK-825,Business,Mumbai,6 AM - 12 PM,non-stop,6 AM - 12 PM,Chennai,2.0833,15,23898
+2023-01-25,Wednesday,Vistara,UK-772,Economy,Kolkata,6 AM - 12 PM,1-stop,After 6 PM,Hyderabad,10.5833,10,18792
+2023-01-30,Monday,Vistara,UK-705,Economy,Delhi,6 AM - 12 PM,non-stop,6 AM - 12 PM,Kolkata,2.0833,15,7898
+2023-02-12,Sunday,Air India,AI-442,Economy,Mumbai,12 PM - 6 PM,1-stop,After 6 PM,Hyderabad,8.25,28,10317
+2023-02-20,Monday,Vistara,UK-812,Economy,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,9.3333,36,12168
+2023-02-03,Friday,Air India,AI-605,Business,Delhi,After 6 PM,1-stop,12 PM - 6 PM,Hyderabad,15.0833,19,39321
+2023-01-30,Monday,Vistara,UK-880,Economy,Hyderabad,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,5.8333,15,12931
+2023-03-02,Thursday,Indigo,6E-887,Economy,Hyderabad,Before 6 AM,1-stop,6 AM - 12 PM,Delhi,5.5833,46,7734
+2023-02-20,Monday,Vistara,UK-936,Premium Economy,Ahmedabad,6 AM - 12 PM,1-stop,6 AM - 12 PM,Bangalore,24.3333,36,7001
+2023-02-03,Friday,Vistara,UK-508,Economy,Bangalore,6 AM - 12 PM,non-stop,12 PM - 6 PM,Mumbai,2.0,19,2886
+2023-02-15,Wednesday,Vistara,UK-865,Economy,Mumbai,After 6 PM,non-stop,After 6 PM,Bangalore,1.75,31,2552
+2023-02-12,Sunday,Vistara,UK-930,Economy,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Ahmedabad,12.25,28,9665
+2023-02-16,Thursday,Air India,AI-616,Economy,Hyderabad,6 AM - 12 PM,2+-stop,12 PM - 6 PM,Delhi,9.6667,32,9308
+2023-02-03,Friday,Indigo,6E-2598,Economy,Chennai,After 6 PM,non-stop,Before 6 AM,Delhi,3.0,19,8175
+2023-02-24,Friday,Indigo,6E-5303,Economy,Mumbai,After 6 PM,non-stop,After 6 PM,Chennai,1.9167,40,3211
+2023-01-25,Wednesday,Air India,AI-624,Business,Delhi,After 6 PM,non-stop,After 6 PM,Mumbai,2.4167,10,22152
+2023-02-16,Thursday,Vistara,UK-941,Business,Delhi,12 PM - 6 PM,1-stop,12 PM - 6 PM,Kolkata,24.25,32,72585
+2023-02-21,Tuesday,Vistara,UK-673,Economy,Delhi,12 PM - 6 PM,2+-stop,6 AM - 12 PM,Chennai,19.5833,37,14219
+2023-02-03,Friday,Vistara,UK-838,Premium Economy,Chennai,After 6 PM,1-stop,6 AM - 12 PM,Kolkata,11.25,19,17614
+2023-01-16,Monday,Air India,AI-575,Business,Chennai,After 6 PM,1-stop,After 6 PM,Hyderabad,25.5,1,44609
+2023-02-09,Thursday,Vistara,UK-954,Premium Economy,Mumbai,6 AM - 12 PM,1-stop,6 AM - 12 PM,Bangalore,5.8333,25,14736
+2023-01-24,Tuesday,Vistara,UK-928,Premium Economy,Mumbai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Hyderabad,10.5,9,30092
+2023-03-04,Saturday,AirAsia,I5-612,Economy,Chennai,12 PM - 6 PM,non-stop,12 PM - 6 PM,Bangalore,0.9167,48,1938
+2023-03-05,Sunday,Vistara,UK-708,Economy,Kolkata,After 6 PM,1-stop,6 AM - 12 PM,Bangalore,11.9167,49,11265
+2023-02-19,Sunday,Vistara,UK-858,Premium Economy,Bangalore,6 AM - 12 PM,1-stop,12 PM - 6 PM,Ahmedabad,8.3333,35,14453
+2023-01-30,Monday,Air India,AI-538,Business,Chennai,After 6 PM,1-stop,After 6 PM,Kolkata,25.9167,15,55537
+2023-01-20,Friday,Air India,AI-638,Business,Ahmedabad,After 6 PM,1-stop,After 6 PM,Chennai,23.5833,5,35105
+2023-02-05,Sunday,Vistara,UK-508,Economy,Bangalore,6 AM - 12 PM,1-stop,12 PM - 6 PM,Hyderabad,4.0,21,7138
+2023-02-05,Sunday,Vistara,UK-826,Business,Chennai,12 PM - 6 PM,1-stop,After 6 PM,Ahmedabad,10.4167,21,84545
+2023-02-06,Monday,Vistara,UK-826,Economy,Chennai,12 PM - 6 PM,1-stop,After 6 PM,Kolkata,9.8333,22,18244
+2023-01-20,Friday,Air India,AI-762,Business,Delhi,After 6 PM,non-stop,After 6 PM,Kolkata,2.1667,5,27976
+2023-02-17,Friday,Air India,AI-441,Economy,Delhi,12 PM - 6 PM,1-stop,6 AM - 12 PM,Kolkata,15.0,33,13620
+2023-01-19,Thursday,Indigo,6E-6289,Economy,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Bangalore,6.8333,4,12091
+2023-01-21,Saturday,GO FIRST,G8-537,Economy,Kolkata,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,4.8333,6,11390
+2023-02-16,Thursday,Vistara,UK-706,Economy,Kolkata,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,10.1667,32,11265
+2023-02-15,Wednesday,Vistara,UK-981,Premium Economy,Delhi,After 6 PM,1-stop,6 AM - 12 PM,Chennai,11.25,31,12004
+2023-02-04,Saturday,Indigo,6E-6925,Economy,Chennai,12 PM - 6 PM,non-stop,12 PM - 6 PM,Hyderabad,1.25,20,4783
+2023-03-02,Thursday,Indigo,6E-6269,Economy,Bangalore,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,7.8333,46,4465
+2023-02-25,Saturday,Air India,AI-624,Economy,Delhi,After 6 PM,1-stop,6 AM - 12 PM,Chennai,16.0833,41,8895
+2023-01-20,Friday,AirAsia,I5-549,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Bangalore,6.8333,5,8866
+2023-02-19,Sunday,Indigo,6E-7143,Economy,Hyderabad,12 PM - 6 PM,1-stop,After 6 PM,Chennai,8.0,35,6812
+2023-02-20,Monday,AirAsia,I5-1621,Economy,Bangalore,Before 6 AM,1-stop,12 PM - 6 PM,Delhi,9.4167,36,5319
+2023-02-01,Wednesday,Indigo,6E-2188,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Chennai,6.3333,17,8737
+2023-01-16,Monday,Air India,AI-511,Economy,Bangalore,12 PM - 6 PM,1-stop,Before 6 AM,Hyderabad,9.0833,1,14373
+2023-02-18,Saturday,Vistara,UK-936,Economy,Ahmedabad,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,6.25,34,12076
+2023-02-06,Monday,Air India,AI-402,Business,Kolkata,6 AM - 12 PM,1-stop,After 6 PM,Hyderabad,13.25,22,52081
+2023-02-05,Sunday,Air India,AI-554,Economy,Delhi,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,11.8333,21,9609
+2023-01-29,Sunday,Vistara,UK-708,Business,Kolkata,After 6 PM,1-stop,6 AM - 12 PM,Hyderabad,13.0,14,95313
+2023-02-23,Thursday,Vistara,UK-943,Premium Economy,Delhi,6 AM - 12 PM,1-stop,12 PM - 6 PM,Ahmedabad,9.1667,39,10560
+2023-01-16,Monday,Vistara,UK-878,Economy,Hyderabad,12 PM - 6 PM,1-stop,Before 6 AM,Delhi,12.0833,1,13928
+2023-01-27,Friday,Indigo,6E-6925,Economy,Chennai,12 PM - 6 PM,non-stop,12 PM - 6 PM,Hyderabad,1.25,12,5413
+2023-02-28,Tuesday,Air India,AI-655,Economy,Mumbai,12 PM - 6 PM,2+-stop,6 AM - 12 PM,Hyderabad,17.0,44,9462
+2023-01-31,Tuesday,Air India,AI-809,Business,Mumbai,6 AM - 12 PM,1-stop,6 AM - 12 PM,Ahmedabad,20.9167,16,41549
+2023-02-24,Friday,Air India,AI-559,Business,Hyderabad,6 AM - 12 PM,1-stop,After 6 PM,Chennai,12.8333,40,51830
+2023-02-18,Saturday,Vistara,UK-846,Business,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Hyderabad,12.5,34,38180
+2023-02-08,Wednesday,Air India,AI-624,Economy,Delhi,After 6 PM,1-stop,6 AM - 12 PM,Bangalore,13.5,24,8654
+2023-02-24,Friday,Vistara,UK-824,Economy,Chennai,After 6 PM,1-stop,6 AM - 12 PM,Delhi,11.4167,40,8286
+2023-03-02,Thursday,AirAsia,I5-972,Economy,Bangalore,12 PM - 6 PM,2+-stop,Before 6 AM,Mumbai,10.1667,46,5857
+2023-02-10,Friday,Air India,AI-539,Business,Chennai,12 PM - 6 PM,1-stop,6 AM - 12 PM,Mumbai,18.4167,26,49713
+2023-03-05,Sunday,Air India,AI-770,Economy,Kolkata,After 6 PM,1-stop,6 AM - 12 PM,Bangalore,14.9167,49,12408
+2023-02-14,Tuesday,Air India,AI-813,Business,Delhi,6 AM - 12 PM,non-stop,6 AM - 12 PM,Bangalore,2.9167,30,32859
+2023-02-03,Friday,Vistara,UK-963,Business,Delhi,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,10.4167,19,50409
+2023-02-02,Thursday,Air India,AI-525,Economy,Hyderabad,Before 6 AM,1-stop,12 PM - 6 PM,Mumbai,6.75,18,15398
+2023-01-19,Thursday,Vistara,UK-866,Premium Economy,Bangalore,After 6 PM,1-stop,6 AM - 12 PM,Hyderabad,10.1667,4,17427
+2023-01-24,Tuesday,Vistara,UK-874,Business,Hyderabad,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,12.4167,9,62459
+2023-02-03,Friday,Vistara,UK-976,Economy,Ahmedabad,12 PM - 6 PM,1-stop,6 AM - 12 PM,Chennai,18.8333,19,10909
+2023-01-29,Sunday,Air India,AI-883,Economy,Delhi,After 6 PM,1-stop,Before 6 AM,Mumbai,26.3333,14,8824
+2023-01-17,Tuesday,Vistara,UK-870,Premium Economy,Hyderabad,After 6 PM,1-stop,After 6 PM,Kolkata,25.8333,2,25421
+2023-01-25,Wednesday,Air India,AI-642,Economy,Bangalore,After 6 PM,1-stop,Before 6 AM,Chennai,27.75,10,11244
+2023-02-16,Thursday,Vistara,UK-874,Economy,Hyderabad,6 AM - 12 PM,1-stop,Before 6 AM,Delhi,16.5,32,10253
+2023-03-06,Monday,Vistara,UK-878,Economy,Hyderabad,12 PM - 6 PM,1-stop,12 PM - 6 PM,Kolkata,27.9167,50,8970
+2023-01-23,Monday,Vistara,UK-957,Business,Delhi,After 6 PM,1-stop,6 AM - 12 PM,Kolkata,13.0,8,72585
+2023-01-23,Monday,Indigo,6E-834,Economy,Chennai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,6.6667,8,8463
+2023-02-28,Tuesday,Vistara,UK-836,Business,Chennai,6 AM - 12 PM,1-stop,After 6 PM,Kolkata,11.0,44,55537
+2023-01-18,Wednesday,Air India,AI-429,Business,Delhi,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,13.9167,3,50969
+2023-01-22,Sunday,Indigo,6E-996,Economy,Ahmedabad,After 6 PM,1-stop,6 AM - 12 PM,Hyderabad,6.5833,7,9434
+2023-01-16,Monday,Vistara,UK-820,Economy,Bangalore,12 PM - 6 PM,1-stop,6 AM - 12 PM,Chennai,16.5833,1,12619
+2023-02-11,Saturday,Vistara,UK-553,Economy,Bangalore,After 6 PM,2+-stop,After 6 PM,Kolkata,23.0833,27,13682
+2023-02-14,Tuesday,Air India,AI-866,Business,Mumbai,6 AM - 12 PM,non-stop,6 AM - 12 PM,Delhi,2.3333,30,22140
+2023-02-08,Wednesday,Air India,AI-564,Business,Bangalore,12 PM - 6 PM,non-stop,12 PM - 6 PM,Chennai,1.1667,24,12331
+2023-02-24,Friday,Vistara,UK-966,Economy,Ahmedabad,After 6 PM,1-stop,After 6 PM,Chennai,23.8333,40,10909
+2023-02-14,Tuesday,Vistara,UK-879,Economy,Delhi,12 PM - 6 PM,non-stop,After 6 PM,Hyderabad,2.25,30,8055
+2023-01-26,Thursday,Vistara,UK-773,Business,Mumbai,12 PM - 6 PM,non-stop,After 6 PM,Kolkata,2.5,11,31436
+2023-02-14,Tuesday,Vistara,UK-857,Business,Mumbai,After 6 PM,1-stop,6 AM - 12 PM,Delhi,12.1667,30,65489
+2023-02-13,Monday,SpiceJet,SG-497,Economy,Kolkata,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,12.0833,29,12151
+2023-01-26,Thursday,Indigo,6E-7248,Economy,Hyderabad,After 6 PM,1-stop,After 6 PM,Mumbai,5.4167,11,10202
+2023-02-28,Tuesday,GO FIRST,G8-102,Economy,Kolkata,12 PM - 6 PM,1-stop,Before 6 AM,Mumbai,14.5,44,8160
+2023-03-04,Saturday,Air India,AI-501,Economy,Bangalore,12 PM - 6 PM,1-stop,After 6 PM,Kolkata,9.1667,48,12115
+2023-01-23,Monday,Indigo,6E-163,Economy,Hyderabad,6 AM - 12 PM,non-stop,6 AM - 12 PM,Mumbai,1.5833,8,5527
+2023-02-02,Thursday,Vistara,UK-852,Economy,Bangalore,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,6.8333,18,15001
+2023-02-26,Sunday,Vistara,UK-809,Premium Economy,Delhi,After 6 PM,1-stop,6 AM - 12 PM,Mumbai,15.5,42,10638
+2023-02-09,Thursday,Air India,AI-503,Economy,Bangalore,12 PM - 6 PM,1-stop,After 6 PM,Hyderabad,6.5833,25,10815
+2023-01-31,Tuesday,Air India,AI-440,Business,Chennai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Kolkata,8.5,16,64497
+2023-02-09,Thursday,Vistara,UK-836,Business,Chennai,6 AM - 12 PM,1-stop,After 6 PM,Ahmedabad,12.5833,25,73875
+2023-02-01,Wednesday,Vistara,UK-853,Economy,Mumbai,12 PM - 6 PM,non-stop,12 PM - 6 PM,Bangalore,1.75,17,3182
+2023-02-09,Thursday,Vistara,UK-810,Business,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Kolkata,15.3333,25,70783
+2023-02-11,Saturday,Vistara,UK-976,Premium Economy,Ahmedabad,12 PM - 6 PM,1-stop,6 AM - 12 PM,Mumbai,20.0,27,12601
+2023-01-18,Wednesday,Indigo,6E-5388,Economy,Mumbai,12 PM - 6 PM,1-stop,After 6 PM,Bangalore,4.8333,3,9146
+2023-02-10,Friday,Vistara,UK-860,Premium Economy,Hyderabad,6 AM - 12 PM,non-stop,6 AM - 12 PM,Delhi,2.3333,26,8251
+2023-01-17,Tuesday,Air India,AI-676,Economy,Kolkata,6 AM - 12 PM,non-stop,12 PM - 6 PM,Mumbai,3.1667,2,9867
+2023-02-27,Monday,Indigo,6E-6128,Economy,Kolkata,Before 6 AM,1-stop,6 AM - 12 PM,Delhi,7.5,43,13294
+2023-01-26,Thursday,Indigo,6E-2046,Economy,Ahmedabad,6 AM - 12 PM,1-stop,12 PM - 6 PM,Chennai,5.5,11,9491
+2023-03-02,Thursday,Air India,AI-481,Business,Delhi,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,13.5833,46,31462
+2023-02-05,Sunday,Air India,AI-532,Business,Ahmedabad,After 6 PM,1-stop,6 AM - 12 PM,Mumbai,13.8333,21,64849
+2023-01-16,Monday,Indigo,6E-6475,Economy,Delhi,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,9.8333,1,22870
+2023-01-22,Sunday,Air India,AI-816,Business,Mumbai,After 6 PM,1-stop,After 6 PM,Hyderabad,21.9167,7,45693
+2023-02-13,Monday,Air India,AI-402,Economy,Kolkata,6 AM - 12 PM,1-stop,After 6 PM,Hyderabad,13.25,29,11931
+2023-03-06,Monday,Indigo,6E-2231,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Kolkata,6.0,50,10144
+2023-01-17,Tuesday,Vistara,UK-738,Premium Economy,Kolkata,After 6 PM,1-stop,6 AM - 12 PM,Hyderabad,14.6667,2,31070
+2023-02-02,Thursday,Indigo,6E-634,Economy,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,6.0,18,14719
+2023-02-17,Friday,Air India,AI-619,Economy,Mumbai,After 6 PM,1-stop,6 AM - 12 PM,Kolkata,11.9167,33,9408
+2023-02-18,Saturday,Air India,AI-540,Economy,Delhi,After 6 PM,1-stop,12 PM - 6 PM,Bangalore,15.6667,34,7562
+2023-02-21,Tuesday,Vistara,UK-772,Business,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,6.5833,37,53761
+2023-01-19,Thursday,Indigo,6E-7418,Economy,Bangalore,After 6 PM,1-stop,6 AM - 12 PM,Ahmedabad,8.3333,4,12367
+2023-01-21,Saturday,Indigo,6E-537,Economy,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Delhi,8.4167,6,16155
+2023-02-09,Thursday,Vistara,UK-870,Business,Hyderabad,After 6 PM,1-stop,6 AM - 12 PM,Chennai,13.9167,25,66357
+2023-01-25,Wednesday,Vistara,UK-936,Business,Ahmedabad,6 AM - 12 PM,1-stop,After 6 PM,Delhi,11.3333,10,76988
+2023-02-10,Friday,Vistara,UK-977,Business,Delhi,After 6 PM,1-stop,6 AM - 12 PM,Chennai,16.8333,26,53624
+2023-01-31,Tuesday,Vistara,UK-832,Business,Chennai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Hyderabad,5.5,16,51617
+2023-02-08,Wednesday,Indigo,6E-2206,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Kolkata,7.3333,24,8708
+2023-01-16,Monday,Vistara,UK-988,Business,Mumbai,After 6 PM,1-stop,12 PM - 6 PM,Bangalore,20.0833,1,96754
+2023-02-12,Sunday,Vistara,UK-963,Business,Delhi,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,12.0833,28,50006
+2023-03-02,Thursday,Air India,AI-633,Economy,Mumbai,6 AM - 12 PM,2+-stop,6 AM - 12 PM,Kolkata,22.5833,46,11877
+2023-01-24,Tuesday,Air India,AI-511,Business,Bangalore,12 PM - 6 PM,1-stop,After 6 PM,Ahmedabad,5.8333,9,75868
+2023-02-02,Thursday,Vistara,UK-880,Economy,Hyderabad,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,6.6667,18,12511
+2023-02-07,Tuesday,Air India,AI-574,Economy,Chennai,After 6 PM,1-stop,6 AM - 12 PM,Delhi,12.0,23,8983
+2023-02-18,Saturday,SpiceJet,SG-8211,Economy,Delhi,6 AM - 12 PM,1-stop,After 6 PM,Chennai,13.25,34,12571
+2023-03-05,Sunday,AirAsia,I5-1536,Economy,Kolkata,6 AM - 12 PM,non-stop,6 AM - 12 PM,Bangalore,2.6667,49,7555
+2023-01-27,Friday,Air India,AI-402,Business,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Chennai,26.0833,12,56001
+2023-01-25,Wednesday,Vistara,UK-881,Premium Economy,Bangalore,12 PM - 6 PM,2+-stop,6 AM - 12 PM,Kolkata,19.5,10,23584
+2023-01-28,Saturday,Air India,AI-809,Business,Mumbai,6 AM - 12 PM,1-stop,Before 6 AM,Bangalore,14.0833,13,54608
+2023-01-19,Thursday,Air India,AI-543,Business,Hyderabad,6 AM - 12 PM,1-stop,6 AM - 12 PM,Kolkata,23.0,4,51942
+2023-01-17,Tuesday,Vistara,UK-828,Economy,Chennai,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,13.9167,2,13939
+2023-02-08,Wednesday,Vistara,UK-832,Business,Chennai,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,12.8333,24,57665
+2023-01-18,Wednesday,Vistara,UK-927,Economy,Delhi,6 AM - 12 PM,1-stop,After 6 PM,Kolkata,10.3333,3,23385
+2023-01-27,Friday,Vistara,UK-986,Premium Economy,Mumbai,After 6 PM,1-stop,6 AM - 12 PM,Bangalore,9.5,12,15520
+2023-02-03,Friday,Air India,AI-815,Business,Delhi,12 PM - 6 PM,1-stop,6 AM - 12 PM,Hyderabad,17.0833,19,44405
+2023-03-04,Saturday,Air India,AI-763,Business,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,5.4167,48,50289
+2023-03-06,Monday,Air India,AI-815,Business,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,5.9167,50,53164
+2023-03-06,Monday,Indigo,6E-461,Economy,Mumbai,Before 6 AM,1-stop,6 AM - 12 PM,Chennai,6.1667,50,8306
+2023-02-02,Thursday,Indigo,6E-2075,Economy,Delhi,6 AM - 12 PM,1-stop,12 PM - 6 PM,Hyderabad,6.5,18,5954
+2023-02-28,Tuesday,Air India,AI-610,Business,Bangalore,After 6 PM,1-stop,After 6 PM,Delhi,25.0833,44,42716
+2023-02-28,Tuesday,Air India,AI-509,Business,Bangalore,After 6 PM,1-stop,6 AM - 12 PM,Mumbai,16.0,44,54879
+2023-02-21,Tuesday,Air India,AI-543,Business,Hyderabad,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,10.1667,37,46118
+2023-02-11,Saturday,Vistara,UK-802,Business,Bangalore,After 6 PM,non-stop,After 6 PM,Delhi,2.6667,27,33118
+2023-02-08,Wednesday,Vistara,UK-866,Economy,Bangalore,After 6 PM,1-stop,6 AM - 12 PM,Delhi,11.0,24,8162
+2023-01-17,Tuesday,Vistara,UK-625,Economy,Mumbai,6 AM - 12 PM,2+-stop,After 6 PM,Bangalore,12.1667,2,15143
+2023-02-05,Sunday,Air India,AI-507,Business,Bangalore,6 AM - 12 PM,non-stop,12 PM - 6 PM,Delhi,3.0,21,33118
+2023-01-30,Monday,Vistara,UK-888,Economy,Hyderabad,12 PM - 6 PM,1-stop,6 AM - 12 PM,Bangalore,19.0833,15,10127
+2023-01-16,Monday,Indigo,6E-843,Economy,Mumbai,12 PM - 6 PM,1-stop,Before 6 AM,Delhi,9.0833,1,16181
+2023-02-11,Saturday,Vistara,UK-996,Premium Economy,Mumbai,After 6 PM,1-stop,6 AM - 12 PM,Kolkata,15.0833,27,15274
+2023-01-21,Saturday,Vistara,UK-846,Business,Bangalore,6 AM - 12 PM,1-stop,Before 6 AM,Delhi,16.5833,6,58217
+2023-01-16,Monday,Vistara,UK-708,Business,Kolkata,After 6 PM,1-stop,6 AM - 12 PM,Chennai,14.0,1,94608
+2023-02-11,Saturday,Vistara,UK-846,Premium Economy,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Delhi,14.5833,27,10875
+2023-02-08,Wednesday,Indigo,6E-356,Economy,Bangalore,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,5.5833,24,4314
+2023-03-03,Friday,Vistara,UK-776,Business,Kolkata,12 PM - 6 PM,1-stop,6 AM - 12 PM,Delhi,16.1667,47,53761
+2023-02-26,Sunday,Vistara,UK-986,Premium Economy,Mumbai,After 6 PM,non-stop,Before 6 AM,Delhi,2.0833,42,7266
+2023-02-03,Friday,Vistara,UK-926,Premium Economy,Ahmedabad,6 AM - 12 PM,1-stop,After 6 PM,Hyderabad,16.0,19,25606
+2023-03-03,Friday,Air India,AI-840,Business,Hyderabad,After 6 PM,1-stop,After 6 PM,Ahmedabad,24.3333,47,43766
+2023-03-02,Thursday,Vistara,UK-933,Economy,Delhi,12 PM - 6 PM,1-stop,6 AM - 12 PM,Ahmedabad,16.3333,46,7871
+2023-02-03,Friday,Vistara,UK-954,Premium Economy,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Ahmedabad,13.75,19,12468
+2023-01-16,Monday,Vistara,UK-960,Business,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,6.9167,1,75104
+2023-02-22,Wednesday,Indigo,6E-5229,Economy,Chennai,12 PM - 6 PM,non-stop,12 PM - 6 PM,Mumbai,1.9167,38,3396
+2023-02-14,Tuesday,Air India,AI-442,Economy,Mumbai,12 PM - 6 PM,1-stop,6 AM - 12 PM,Bangalore,17.4167,30,10794
+2023-01-17,Tuesday,Indigo,6E-6214,Economy,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,5.0833,2,12053
+2023-02-25,Saturday,Indigo,6E-7156,Economy,Hyderabad,12 PM - 6 PM,1-stop,After 6 PM,Mumbai,5.3333,41,5933
+2023-01-20,Friday,SpiceJet,SG-1077,Economy,Ahmedabad,6 AM - 12 PM,1-stop,Before 6 AM,Chennai,21.0833,5,6778
+2023-01-17,Tuesday,Vistara,UK-835,Premium Economy,Delhi,After 6 PM,non-stop,After 6 PM,Chennai,2.5,2,17190
+2023-02-21,Tuesday,Vistara,UK-950,Business,Mumbai,After 6 PM,1-stop,6 AM - 12 PM,Kolkata,10.4167,37,57677
+2023-03-01,Wednesday,Vistara,UK-720,Economy,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,9.3333,45,13385
+2023-03-05,Sunday,Air India,AI-809,Economy,Mumbai,6 AM - 12 PM,non-stop,12 PM - 6 PM,Delhi,2.25,49,5943
+2023-01-16,Monday,Air India,AI-526,Business,Kolkata,After 6 PM,1-stop,6 AM - 12 PM,Delhi,13.9167,1,46502
+2023-02-01,Wednesday,Air India,AI-818,Business,Ahmedabad,6 AM - 12 PM,1-stop,After 6 PM,Hyderabad,15.8333,17,43300
+2023-01-25,Wednesday,Indigo,6E-6178,Economy,Bangalore,After 6 PM,1-stop,6 AM - 12 PM,Delhi,7.8333,10,8733
+2023-02-21,Tuesday,Air India,AI-762,Business,Delhi,After 6 PM,non-stop,After 6 PM,Kolkata,2.1667,37,27976
+2023-01-23,Monday,Vistara,UK-738,Premium Economy,Kolkata,After 6 PM,1-stop,After 6 PM,Mumbai,25.1667,8,18022
+2023-03-01,Wednesday,Vistara,UK-966,Economy,Ahmedabad,After 6 PM,1-stop,12 PM - 6 PM,Chennai,19.8333,45,10909
+2023-03-02,Thursday,Vistara,UK-986,Business,Mumbai,After 6 PM,1-stop,12 PM - 6 PM,Hyderabad,13.6667,46,45805
+2023-02-28,Tuesday,Air India,AI-815,Business,Delhi,12 PM - 6 PM,1-stop,12 PM - 6 PM,Chennai,22.5833,44,44540
+2023-02-10,Friday,Air India,AI-814,Business,Delhi,After 6 PM,non-stop,Before 6 AM,Mumbai,2.25,26,22152
+2023-01-28,Saturday,Indigo,6E-395,Economy,Mumbai,12 PM - 6 PM,non-stop,After 6 PM,Kolkata,2.6667,13,8463
+2023-02-11,Saturday,Air India,AI-430,Economy,Chennai,6 AM - 12 PM,1-stop,After 6 PM,Ahmedabad,9.8333,27,16512
+2023-02-15,Wednesday,Vistara,UK-865,Premium Economy,Mumbai,After 6 PM,1-stop,12 PM - 6 PM,Delhi,17.5,31,10839
+2023-01-19,Thursday,Vistara,UK-872,Premium Economy,Hyderabad,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,16.1667,4,17581
+2023-01-21,Saturday,Indigo,6E-246,Economy,Ahmedabad,12 PM - 6 PM,1-stop,After 6 PM,Hyderabad,6.3333,6,10727
+2023-02-09,Thursday,Vistara,UK-988,Economy,Mumbai,After 6 PM,1-stop,After 6 PM,Kolkata,21.1667,25,14028
+2023-01-31,Tuesday,Indigo,6E-6172,Economy,Kolkata,After 6 PM,non-stop,Before 6 AM,Hyderabad,2.25,16,6717
+2023-02-17,Friday,AirAsia,I5-332,Economy,Mumbai,After 6 PM,1-stop,6 AM - 12 PM,Hyderabad,14.0,33,4264
+2023-03-03,Friday,Air India,AI-814,Business,Delhi,After 6 PM,1-stop,6 AM - 12 PM,Chennai,12.5833,47,45257
+2023-03-04,Saturday,Air India,AI-671,Business,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Delhi,10.8333,48,50957
+2023-01-19,Thursday,Indigo,6E-7001,Economy,Chennai,Before 6 AM,1-stop,6 AM - 12 PM,Mumbai,6.6667,4,9159
+2023-02-21,Tuesday,Vistara,UK-902,Premium Economy,Mumbai,12 PM - 6 PM,1-stop,After 6 PM,Hyderabad,7.0,37,14154
+2023-02-17,Friday,Vistara,UK-708,Economy,Kolkata,After 6 PM,2+-stop,6 AM - 12 PM,Mumbai,11.5833,33,13385
+2023-02-05,Sunday,Vistara,UK-940,Economy,Mumbai,After 6 PM,1-stop,12 PM - 6 PM,Ahmedabad,19.25,21,9665
+2023-02-14,Tuesday,SpiceJet,SG-194,Economy,Ahmedabad,6 AM - 12 PM,non-stop,6 AM - 12 PM,Delhi,1.6667,30,3088
+2023-01-24,Tuesday,Vistara,UK-814,Premium Economy,Bangalore,After 6 PM,1-stop,6 AM - 12 PM,Kolkata,12.4167,9,16393
+2023-01-30,Monday,Vistara,UK-727,Premium Economy,Delhi,After 6 PM,non-stop,After 6 PM,Kolkata,1.8333,15,8398
+2023-03-04,Saturday,Vistara,UK-817,Premium Economy,Delhi,12 PM - 6 PM,2+-stop,After 6 PM,Ahmedabad,7.8333,48,13920
+2023-02-12,Sunday,Vistara,UK-637,Premium Economy,Delhi,12 PM - 6 PM,2+-stop,12 PM - 6 PM,Ahmedabad,23.9167,28,14169
+2023-02-06,Monday,GO FIRST,G8-719,Economy,Delhi,6 AM - 12 PM,1-stop,6 AM - 12 PM,Mumbai,4.75,22,4592
+2023-02-03,Friday,Air India,AI-677,Business,Mumbai,12 PM - 6 PM,1-stop,After 6 PM,Chennai,10.5833,19,57554
+2023-02-10,Friday,Air India,AI-507,Business,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Chennai,7.5,26,60591
+2023-02-19,Sunday,Air India,AI-887,Economy,Delhi,6 AM - 12 PM,1-stop,After 6 PM,Chennai,13.25,35,8895
+2023-02-16,Thursday,Air India,AI-768,Business,Kolkata,12 PM - 6 PM,1-stop,6 AM - 12 PM,Bangalore,17.5,32,60996
+2023-02-25,Saturday,Vistara,UK-940,Economy,Mumbai,After 6 PM,1-stop,6 AM - 12 PM,Kolkata,13.8333,41,12558
+2023-03-03,Friday,GO FIRST,G8-237,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Bangalore,8.0833,47,8866
+2023-03-03,Friday,Vistara,UK-852,Business,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Delhi,11.0,47,50668
+2023-02-14,Tuesday,Vistara,UK-870,Economy,Hyderabad,After 6 PM,1-stop,After 6 PM,Bangalore,22.3333,30,11219
+2023-02-05,Sunday,Vistara,UK-976,Premium Economy,Ahmedabad,12 PM - 6 PM,non-stop,12 PM - 6 PM,Delhi,1.5833,21,5713
+2023-02-12,Sunday,Vistara,UK-988,Economy,Mumbai,After 6 PM,1-stop,12 PM - 6 PM,Hyderabad,15.6667,28,11771
+2023-02-05,Sunday,Indigo,6E-2461,Economy,Delhi,Before 6 AM,non-stop,Before 6 AM,Hyderabad,2.3333,21,5184
+2023-01-20,Friday,Vistara,UK-834,Business,Chennai,12 PM - 6 PM,1-stop,6 AM - 12 PM,Kolkata,16.1667,5,89249
+2023-02-27,Monday,Indigo,6E-189,Economy,Chennai,After 6 PM,non-stop,After 6 PM,Bangalore,1.0,43,1934
+2023-02-25,Saturday,Air India,AI-806,Business,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Hyderabad,15.75,41,45693
+2023-02-03,Friday,Vistara,UK-824,Premium Economy,Chennai,After 6 PM,1-stop,12 PM - 6 PM,Delhi,19.9167,19,22775
+2023-01-22,Sunday,Vistara,UK-832,Premium Economy,Chennai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,7.9167,7,23696
+2023-01-22,Sunday,Vistara,UK-926,Business,Ahmedabad,6 AM - 12 PM,1-stop,12 PM - 6 PM,Chennai,9.5833,7,59652
+2023-03-04,Saturday,AkasaAir,QP-1105,Economy,Mumbai,12 PM - 6 PM,non-stop,12 PM - 6 PM,Bangalore,1.5,48,2502
+2023-01-16,Monday,Vistara,UK-814,Business,Bangalore,After 6 PM,1-stop,6 AM - 12 PM,Hyderabad,12.25,1,60143
+2023-02-19,Sunday,Air India,AI-563,Economy,Chennai,6 AM - 12 PM,2+-stop,6 AM - 12 PM,Ahmedabad,19.75,35,9079
+2023-01-24,Tuesday,Vistara,UK-860,Economy,Hyderabad,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,16.6667,9,13298
+2023-01-27,Friday,Air India,AI-443,Economy,Delhi,Before 6 AM,1-stop,6 AM - 12 PM,Mumbai,5.0833,12,7151
+2023-02-28,Tuesday,Indigo,6E-6232,Economy,Delhi,Before 6 AM,1-stop,12 PM - 6 PM,Mumbai,6.75,44,8002
+2023-02-09,Thursday,Vistara,UK-918,Premium Economy,Ahmedabad,Before 6 AM,1-stop,12 PM - 6 PM,Hyderabad,7.1667,25,7637
+2023-01-17,Tuesday,Indigo,6E-496,Economy,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,7.5,2,9703
+2023-02-07,Tuesday,Vistara,UK-926,Premium Economy,Ahmedabad,6 AM - 12 PM,1-stop,After 6 PM,Hyderabad,13.0833,23,12601
+2023-01-29,Sunday,Air India,AI-402,Business,Kolkata,6 AM - 12 PM,1-stop,After 6 PM,Mumbai,10.9167,14,50289
+2023-02-08,Wednesday,Air India,AI-883,Economy,Delhi,After 6 PM,1-stop,6 AM - 12 PM,Mumbai,10.1667,24,8614
+2023-02-06,Monday,Vistara,UK-858,Economy,Bangalore,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,8.1667,22,9658
+2023-03-04,Saturday,Vistara,UK-966,Business,Ahmedabad,After 6 PM,1-stop,After 6 PM,Chennai,23.8333,48,54388
+2023-01-25,Wednesday,Vistara,UK-994,Premium Economy,Mumbai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Ahmedabad,4.6667,10,29366
+2023-02-03,Friday,AirAsia,I5-517,Economy,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Bangalore,6.3333,19,8085
+2023-02-14,Tuesday,Air India,AI-808,Business,Bangalore,After 6 PM,1-stop,6 AM - 12 PM,Kolkata,12.0833,30,60703
+2023-02-09,Thursday,Indigo,6E-5285,Economy,Mumbai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Bangalore,6.5,25,11130
+2023-02-25,Saturday,Vistara,UK-956,Economy,Ahmedabad,12 PM - 6 PM,1-stop,6 AM - 12 PM,Hyderabad,14.5,41,9472
+2023-02-28,Tuesday,Air India,AI-818,Economy,Ahmedabad,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,14.75,44,9357
+2023-02-18,Saturday,AkasaAir,QP-1108,Economy,Ahmedabad,12 PM - 6 PM,non-stop,12 PM - 6 PM,Mumbai,1.3333,34,2638
+2023-02-20,Monday,Air India,AI-636,Economy,Delhi,12 PM - 6 PM,1-stop,6 AM - 12 PM,Kolkata,18.3333,36,12780
+2023-02-14,Tuesday,Vistara,UK-855,Premium Economy,Delhi,After 6 PM,1-stop,Before 6 AM,Mumbai,5.5833,30,13046
+2023-01-16,Monday,Indigo,6E-5252,Economy,Mumbai,After 6 PM,1-stop,Before 6 AM,Kolkata,7.0833,1,10620
+2023-02-03,Friday,Indigo,6E-5375,Economy,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Bangalore,7.5833,19,6507
+2023-02-24,Friday,Vistara,UK-960,Premium Economy,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Chennai,8.4167,40,24962
+2023-02-13,Monday,Indigo,6E-7114,Economy,Ahmedabad,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,8.1667,29,5333
+2023-01-19,Thursday,Vistara,UK-873,Premium Economy,Mumbai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,9.25,4,21188
+2023-02-13,Monday,Indigo,6E-6593,Economy,Hyderabad,12 PM - 6 PM,1-stop,After 6 PM,Delhi,6.0833,29,7895
+2023-02-21,Tuesday,Vistara,UK-850,Business,Bangalore,After 6 PM,non-stop,After 6 PM,Mumbai,1.75,37,20955
+2023-02-04,Saturday,Indigo,6E-898,Economy,Kolkata,After 6 PM,non-stop,After 6 PM,Delhi,2.6667,20,7557
+2023-03-02,Thursday,Air India,AI-678,Economy,Delhi,6 AM - 12 PM,1-stop,After 6 PM,Ahmedabad,10.9167,46,8234
+2023-02-16,Thursday,Indigo,6E-153,Economy,Delhi,After 6 PM,1-stop,Before 6 AM,Mumbai,9.5,32,5798
+2023-02-18,Saturday,Vistara,UK-928,Economy,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,12.3333,34,12317
+2023-02-19,Sunday,AirAsia,I5-1567,Economy,Bangalore,6 AM - 12 PM,1-stop,12 PM - 6 PM,Kolkata,8.75,35,9022
+2023-01-17,Tuesday,Vistara,UK-816,Business,Bangalore,6 AM - 12 PM,1-stop,After 6 PM,Kolkata,8.0833,2,95132
+2023-02-24,Friday,Vistara,UK-951,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Chennai,5.5,40,8895
+2023-01-24,Tuesday,Vistara,UK-846,Economy,Bangalore,6 AM - 12 PM,1-stop,12 PM - 6 PM,Hyderabad,6.6667,9,10339
+2023-02-22,Wednesday,Air India,AI-889,Economy,Delhi,6 AM - 12 PM,1-stop,12 PM - 6 PM,Kolkata,7.3333,38,12117
+2023-01-19,Thursday,Air India,AI-814,Business,Delhi,After 6 PM,1-stop,After 6 PM,Bangalore,19.9167,4,42457
+2023-01-23,Monday,Air India,AI-727,Economy,Kolkata,Before 6 AM,2+-stop,After 6 PM,Mumbai,17.6667,8,13857
+2023-02-18,Saturday,Air India,AI-501,Business,Bangalore,12 PM - 6 PM,1-stop,After 6 PM,Hyderabad,10.5,34,56671
+2023-03-05,Sunday,Vistara,UK-940,Business,Mumbai,After 6 PM,1-stop,6 AM - 12 PM,Bangalore,12.5833,49,62560
+2023-01-25,Wednesday,Vistara,UK-902,Economy,Mumbai,12 PM - 6 PM,1-stop,6 AM - 12 PM,Kolkata,16.5833,10,15708
+2023-02-14,Tuesday,Vistara,UK-872,Business,Hyderabad,6 AM - 12 PM,1-stop,6 AM - 12 PM,Chennai,5.1667,30,41549
+2023-02-15,Wednesday,Indigo,6E-2274,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Kolkata,7.0833,31,5954
+2023-02-02,Thursday,Air India,AI-687,Business,Mumbai,12 PM - 6 PM,1-stop,After 6 PM,Hyderabad,7.1667,18,45693
+2023-03-03,Friday,Indigo,6E-2196,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Kolkata,7.75,47,11694
+2023-02-20,Monday,Vistara,UK-940,Economy,Mumbai,After 6 PM,1-stop,After 6 PM,Ahmedabad,24.0,36,8510
+2023-01-17,Tuesday,Vistara,UK-881,Premium Economy,Bangalore,12 PM - 6 PM,2+-stop,6 AM - 12 PM,Kolkata,20.75,2,20112
+2023-02-20,Monday,Air India,AI-559,Economy,Hyderabad,6 AM - 12 PM,1-stop,After 6 PM,Bangalore,12.0833,36,10028
+2023-02-05,Sunday,GO FIRST,G8-3007,Economy,Ahmedabad,Before 6 AM,1-stop,12 PM - 6 PM,Bangalore,9.4167,21,10535
+2023-01-20,Friday,Vistara,UK-851,Economy,Mumbai,6 AM - 12 PM,2+-stop,After 6 PM,Kolkata,11.0833,5,33590
+2023-02-22,Wednesday,Indigo,6E-6184,Economy,Delhi,12 PM - 6 PM,non-stop,After 6 PM,Ahmedabad,1.5833,38,3152
+2023-02-22,Wednesday,Vistara,UK-635,Premium Economy,Delhi,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,4.8333,38,10918
+2023-01-19,Thursday,GO FIRST,G8-514,Economy,Kolkata,12 PM - 6 PM,1-stop,6 AM - 12 PM,Chennai,14.6667,4,8701
+2023-02-21,Tuesday,Air India,AI-617,Economy,Mumbai,6 AM - 12 PM,1-stop,6 AM - 12 PM,Bangalore,24.3333,37,5019
+2023-02-09,Thursday,Air India,AI-889,Business,Delhi,6 AM - 12 PM,1-stop,12 PM - 6 PM,Kolkata,7.3333,25,44507
+2023-03-01,Wednesday,Vistara,UK-828,Economy,Chennai,6 AM - 12 PM,1-stop,12 PM - 6 PM,Delhi,7.0833,45,8286
+2023-02-09,Thursday,Indigo,6E-772,Economy,Mumbai,12 PM - 6 PM,1-stop,After 6 PM,Bangalore,7.4167,25,7151
+2023-02-05,Sunday,Indigo,6E-184,Economy,Delhi,6 AM - 12 PM,non-stop,6 AM - 12 PM,Ahmedabad,1.75,21,4052
+2023-02-18,Saturday,Vistara,UK-960,Premium Economy,Mumbai,6 AM - 12 PM,1-stop,After 6 PM,Chennai,10.75,34,16394
+2023-03-01,Wednesday,Vistara,UK-838,Premium Economy,Chennai,After 6 PM,1-stop,6 AM - 12 PM,Bangalore,11.25,45,16516
+2023-01-20,Friday,Indigo,6E-7103,Economy,Hyderabad,After 6 PM,1-stop,Before 6 AM,Mumbai,6.0,5,15413
+2023-01-25,Wednesday,Air India,AI-853,Economy,Delhi,After 6 PM,1-stop,12 PM - 6 PM,Ahmedabad,19.1667,10,9420
+2023-01-21,Saturday,Air India,AI-429,Business,Delhi,6 AM - 12 PM,1-stop,12 PM - 6 PM,Mumbai,8.1667,6,50969
+2023-03-04,Saturday,Indigo,6E-2212,Economy,Delhi,12 PM - 6 PM,1-stop,After 6 PM,Chennai,5.5,48,10627
+2023-03-04,Saturday,Vistara,UK-706,Economy,Kolkata,6 AM - 12 PM,1-stop,12 PM - 6 PM,Bangalore,6.75,48,13362
